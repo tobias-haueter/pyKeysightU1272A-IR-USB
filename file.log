@@ -1,0 +1,6 @@
+26-Sep-22 16:15:54.749 - [my3xceptions] - INFO      - **************************************
+26-Sep-22 16:15:54.751 - [my3xceptions] - INFO      - [pyLog_KeysightU1272A_beta_v0.3.py/loggerToFile()] ** Logger START **
+26-Sep-22 16:15:54.751 - [my3xceptions] - INFO      - [pyLog_KeysightU1272A_beta_v0.3.py/loggerToFile()] ** Keysight Technologies,U1272A,************,V3.03 | com6 **
+26-Sep-22 16:15:54.752 - [my3xceptions] - INFO      - [pyLog_KeysightU1272A_beta_v0.3.py/loggerToFile()] ** ComPort: com6 | Sample time [ms]: 1000 **
+26-Sep-22 16:15:54.752 - [my3xceptions] - INFO      - **************************************
+26-Sep-22 16:16:02.683 - [my3xceptions] - INFO      - [pyLog_KeysightU1272A_beta_v0.3.py/main()] ++ Logger Stopped via KeyboardInterrupt ++
