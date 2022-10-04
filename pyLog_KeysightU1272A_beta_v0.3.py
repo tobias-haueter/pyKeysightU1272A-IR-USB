@@ -1,6 +1,6 @@
 '''
 This is the logger script for save data from Keysight U1272A to ".csv" file.
-Tobias Haueter PF32
+Tobias Haueter
 '''
 # send_receive('*IDN?')              - Identification
 # send_receive('SYST:BATT?')         - Request batterie status. Not sure what units are returned.
